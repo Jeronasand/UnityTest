@@ -6,6 +6,9 @@ public class JCTest : MonoBehaviour
     void Start()
     {
         Debug.Log("JCTest script has started successfully!");
+
+        Debug.Log("Jeronasand Dev");
+
     }
 
     // Update is called once per frame
