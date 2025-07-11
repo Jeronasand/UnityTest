@@ -9,6 +9,9 @@ public class JCTest : MonoBehaviour
 
         Debug.Log("Jeronasand Dev");
 
+        Debug.Log("main");
+
+
     }
 
     // Update is called once per frame
